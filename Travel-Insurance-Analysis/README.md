@@ -1,4 +1,4 @@
-<h1><center>Case Study for Data Analyst Professional Certification</center></h1>
+## Case Study for Data Analyst Professional Certification
 
 
 #### About the data:
