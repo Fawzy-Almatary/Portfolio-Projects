@@ -1,4 +1,5 @@
-# 2021 BRFSS Data: Part 2
+# 2021 BRFSS Data
+
 
 ### About the data:
 - The dataset used in this project is the 2021 BRFSS Data.
