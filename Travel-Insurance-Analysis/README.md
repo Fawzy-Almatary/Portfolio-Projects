@@ -6,8 +6,8 @@
 <br>
 
 ### Customer Questions they want to knows:
-    1. Are there differences in the travel habits between customers and non-customers?
-    2. What is the typical profile of customers and non-customers?
+1. Are there differences in the travel habits between customers and non-customers?
+2. What is the typical profile of customers and non-customers?
 
 <br>
 - To view the python code for this project, [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/Travel-Insurance-Analysis/Travel_Insurance_Analysis.ipynb).
