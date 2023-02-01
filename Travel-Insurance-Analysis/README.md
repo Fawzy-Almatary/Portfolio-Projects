@@ -9,6 +9,6 @@
 1. Are there differences in the travel habits between customers and non-customers?
 2. What is the typical profile of customers and non-customers?
 
-<br>
+<br><br>
 - To view the python code for this project, [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/Travel-Insurance-Analysis/Travel_Insurance_Analysis.ipynb).
 - To view the presentation given to the client regarding this case study, [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects/raw/main/Travel-Insurance-Analysis/Travel_Insurance_Presentation.pdf).
