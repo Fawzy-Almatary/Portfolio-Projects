@@ -9,6 +9,6 @@
 - For the codebook of the database, [Click Here](https://www.cdc.gov/brfss/annual_data/2021/pdf/codebook21_llcp-v2-508.pdf)
 
 ### The project is:
-- __[Part 1. Preparing:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/1_Preparation.ipynb)__ In this part, I will choose what columns will be left to analyze, change the values in them to more human-readable form according the BRFSSS codebook.
+- __[Part 1. Preparing:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/1_Preparation.ipynb)__ In this part, I will choose what columns will be left to analyze, change the values in them to more human-readable form according to the BRFSSS codebook.
 - __[Part 2. EDA:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/2_EDA.ipynb)__ In this part, I will do some exploratory data analysis, trying to find insights from the data.
 - __[Part 3. Statistics:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/3_Statistics.ipynb)__ In this part, I will do some statistical hypotheses testing to evaluate some of the insights found in part 2, I will also conduct regression analysis.
