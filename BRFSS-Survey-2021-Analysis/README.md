@@ -9,6 +9,7 @@
 - For the codebook of the database, [Click Here](https://www.cdc.gov/brfss/annual_data/2021/pdf/codebook21_llcp-v2-508.pdf)
 
 ### The project is:
-- __[Part 1. Preparing:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/1_Preparation.ipynb)__ In this part, I will choose what columns will be left to analyze, change the values in them to more human-readable form according to the BRFSSS codebook.
-- __[Part 2. EDA:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/2_EDA.ipynb)__ In this part, I will do some exploratory data analysis, trying to find insights from the data.
-- __[Part 3. Statistics:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/3_Statistics.ipynb)__ In this part, I will do some statistical hypotheses testing to evaluate some of the insights found in part 2, I will also conduct regression analysis.
+- __[Part 1. Preprocessing:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/1_Preprocessing.ipynb)__ In this part, I will choose what columns will be left to analyze, change the values in them to more human-readable form according to the BRFSS codebook, make other changes to the data, then save it as a pickle file to further use it in the next parts.<br>
+- __[Part 2. EDA:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/2_EDA.ipynb)__ In this part, I will do some Exploratory Data Analysis, trying to find insights from the data.<br>
+- __[Part 3. Statistics:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/3_Statistics.ipynb)__ In this part, I will do some statistical hypotheses testing to evaluate some of the insights found in part 2.<br>
+- __[Part 4. Modeling:](https://github.com/Fawzy-Almatary/Portfolio-Projects/blob/main/BRFSS-Survey-2021-Analysis/4_Modeling.ipynb)__ In this part, I will two types of models:(1) Statistical logistic regression model using statsmodel. (2) Predictive machine learning logistic regression model using scikit-learn to predict diabetes diagnosis.
